@@ -6,11 +6,11 @@
 /*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/10 12:35:21 by marvin            #+#    #+#             */
-/*   Updated: 2024/12/17 13:38:30 by marvin           ###   ########.fr       */
+/*   Updated: 2024/12/10 13:26:25 by marvin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 // Une dos cadenas de caracteres (s1 y s2) en una nueva cadena.
 char	*ft_strjoin_gnl(char *s1, char *s2)
